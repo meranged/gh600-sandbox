@@ -1,8 +1,8 @@
 # Anything in .github/workflows requires platform-team approval
-.github/workflows/   @your-username
+.github/workflows/   @meranged
 
 # Anything touching auth requires the security team
-/src/auth/           @your-username
+/src/auth/           @meranged
 
 # Migrations are highest-risk
-/migrations/         @your-username
+/migrations/         @meranged
